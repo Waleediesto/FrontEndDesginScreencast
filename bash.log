@@ -108,3 +108,17 @@ git commit -m "style news meta"
 
 git push 
 
+git add . 
+
+git commit -m "fix meta-news-item classes"
+
+git push 
+
+git pull 
+
+git add .
+
+git commit -m "add like animation and jQuery"
+
+git push
+
